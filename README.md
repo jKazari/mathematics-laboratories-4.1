@@ -3,4 +3,4 @@ Repository of solutions to my **Algorithms and Data Structures** (`C++`) laborat
 
 ## The laboratory outline
 
-1. 
+1. Warm-up (syntax, datatypes, I/O, file handling, strings, arrays, vectors, chrono)
