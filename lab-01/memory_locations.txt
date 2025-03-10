@@ -1,0 +1,35 @@
+Memory locations of A:
+A[0] = 0 at 0xb00bfffe30
+A[1] = 1 at 0xb00bfffe34
+A[2] = 2 at 0xb00bfffe38
+A[3] = 3 at 0xb00bfffe3c
+A[4] = 4 at 0xb00bfffe40
+A[5] = 5 at 0xb00bfffe44
+A[6] = 6 at 0xb00bfffe48
+A[7] = 7 at 0xb00bfffe4c
+A[8] = 8 at 0xb00bfffe50
+A[9] = 9 at 0xb00bfffe54
+
+Memory locations of B:
+B[0] = 0 at 0xb00bfffc30
+B[1] = 1 at 0xb00bfffc34
+B[2] = 2 at 0xb00bfffc38
+B[3] = 3 at 0xb00bfffc3c
+B[4] = 4 at 0xb00bfffc40
+B[5] = 5 at 0xb00bfffc44
+B[6] = 6 at 0xb00bfffc48
+B[7] = 7 at 0xb00bfffc4c
+B[8] = 8 at 0xb00bfffc50
+B[9] = 9 at 0xb00bfffc54
+
+Memory locations of C:
+C[0] = 0 at 0x1d144371b30
+C[1] = 1 at 0x1d144371b34
+C[2] = 2 at 0x1d144371b38
+C[3] = 3 at 0x1d144371b3c
+C[4] = 4 at 0x1d144371b40
+C[5] = 5 at 0x1d144371b44
+C[6] = 6 at 0x1d144371b48
+C[7] = 7 at 0x1d144371b4c
+C[8] = 8 at 0x1d144371b50
+C[9] = 9 at 0x1d144371b54

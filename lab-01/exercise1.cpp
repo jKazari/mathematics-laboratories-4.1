@@ -1,8 +1,7 @@
 #include <iostream>
 #include <iomanip>
  
-int main()
-{
+int main() {
     std::cout << "Hello World!\n";
 	std::cout << "AiSD\n";
 
