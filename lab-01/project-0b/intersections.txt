@@ -1,0 +1,26 @@
+A1: 1000 log(n)
+A2: 100 n
+A3: 10 n log(n)
+A4: n^2
+A5: n^3
+A6: 2^n
+
+A1 szybszy od A2 dla n = 1 i dla n > 10
+A1 szybszy od A3 dla n > 100
+A1 szybszy od A4 dla n > 40
+A1 szybszy od A5 dla n > 10
+A1 szybszy od A6 dla n > 10
+
+A2 szybszy od A3 dla n > 10^10
+A2 szybszy od A4 dla n > 100
+A2 szybszy od A5 dla n > 10
+A2 szybszy od A6 dla n > 10
+
+A3 szybszy od A4 dla n > 10
+A3 zawsze szybszy od A5
+A3 szybszy od A6 dla n > 5
+
+A4 zawsze szybszy od A5
+A4 szybszy od A6 dla n > 4
+
+A5 szybszy od A6 dla n > 10
