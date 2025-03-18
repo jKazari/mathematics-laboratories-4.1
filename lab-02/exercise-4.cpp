@@ -12,7 +12,6 @@ int count_occurrences(const vector<T>& A, const T& value) {
 	return counter;
 }
 
-
 int main() {
 	// Test funkcji zliczającej
 	vector<int> v = {1, 2, 3, 4, 5, 3, 7, 4, 8, 2, 2};
