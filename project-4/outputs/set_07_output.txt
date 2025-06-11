@@ -1,0 +1,39 @@
+=== TEST 07 ===
+Inserting elements:
+10 20 30 40 50 30 10 20 35 45 25 15 5 25 
+
+In-order traversal:
+5 10 15 20 25 30 35 40 45 50 
+
+Tree structure:
+                50
+                 \
+                    45
+             /
+            40
+             \
+                35
+         /
+        30
+         \
+            25
+     /
+    20
+     \
+        15
+ /
+10
+ \
+    5
+
+Search results:
+Search(10): Found
+Search(20): Found
+Search(30): Found
+
+Minimum: 5
+Maximum: 50
+
+Middle value: 20
+Predecessor: 15
+Successor: 25

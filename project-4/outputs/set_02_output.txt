@@ -1,0 +1,39 @@
+=== TEST 02 ===
+Inserting elements:
+1 2 3 4 5 6 7 8 9 10 
+
+In-order traversal:
+1 2 3 4 5 6 7 8 9 10 
+
+Tree structure:
+                                    10
+                                 /
+                                9
+                             /
+                            8
+                         /
+                        7
+                     /
+                    6
+                 /
+                5
+             /
+            4
+         /
+        3
+     /
+    2
+ /
+1
+
+Search results:
+Search(1): Found
+Search(2): Found
+Search(3): Found
+
+Minimum: 1
+Maximum: 10
+
+Middle value: 6
+Predecessor: 5
+Successor: 7

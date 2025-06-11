@@ -1,0 +1,19 @@
+=== TEST 01 ===
+Inserting elements:
+7 
+
+In-order traversal:
+7 
+
+Tree structure:
+7
+
+Search results:
+Search(7): Found
+
+Minimum: 7
+Maximum: 7
+
+Middle value: 7
+Predecessor: None
+Successor: None

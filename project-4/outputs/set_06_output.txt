@@ -1,0 +1,45 @@
+=== TEST 06 ===
+Inserting elements:
+15 3 18 7 5 20 9 1 4 8 17 2 13 
+
+In-order traversal:
+1 2 3 4 5 7 8 9 13 15 17 18 20 
+
+Tree structure:
+        20
+     /
+    18
+     \
+        17
+ /
+15
+ \
+                13
+             /
+            9
+             \
+                8
+         /
+        7
+         \
+            5
+             \
+                4
+     /
+    3
+     \
+            2
+         /
+        1
+
+Search results:
+Search(15): Found
+Search(3): Found
+Search(18): Found
+
+Minimum: 1
+Maximum: 20
+
+Middle value: 9
+Predecessor: 8
+Successor: 13

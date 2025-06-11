@@ -1,0 +1,35 @@
+=== TEST 08 ===
+Inserting elements:
+10 100 1000 50 500 25 250 750 
+
+In-order traversal:
+10 25 50 100 250 500 750 1000 
+
+Tree structure:
+        1000
+         \
+                750
+             /
+            500
+             \
+                250
+     /
+    100
+     \
+        50
+         \
+            25
+ /
+10
+
+Search results:
+Search(10): Found
+Search(100): Found
+Search(1000): Found
+
+Minimum: 10
+Maximum: 1000
+
+Middle value: 500
+Predecessor: 250
+Successor: 750

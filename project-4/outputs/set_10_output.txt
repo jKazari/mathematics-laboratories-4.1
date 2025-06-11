@@ -1,0 +1,45 @@
+=== TEST 10 ===
+Inserting elements:
+50 30 70 20 40 60 80 25 35 65 75 55 45 
+
+In-order traversal:
+20 25 30 35 40 45 50 55 60 65 70 75 80 
+
+Tree structure:
+        80
+         \
+            75
+     /
+    70
+     \
+            65
+         /
+        60
+         \
+            55
+ /
+50
+ \
+            45
+         /
+        40
+         \
+            35
+     /
+    30
+     \
+            25
+         /
+        20
+
+Search results:
+Search(50): Found
+Search(30): Found
+Search(70): Found
+
+Minimum: 20
+Maximum: 80
+
+Middle value: 80
+Predecessor: 75
+Successor: None
